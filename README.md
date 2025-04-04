@@ -1,4 +1,4 @@
-# Kubernetes HPA with Custom Metrics from Prometheus (K3D Setup)
+# Kubernetes HPA with Custom Metrics 
 
 This project demonstrates how to autoscale a Python-based Kubernetes application using a custom Prometheus metric (`http_request_count`) with Horizontal Pod Autoscaler (HPA), Prometheus Adapter, and K3D.
 
